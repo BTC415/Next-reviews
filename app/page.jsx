@@ -1,7 +1,9 @@
+import Heading from "@/components/Heading";
+
 export default function Homepage() {
   return (
     <>
-      <h1>Indie Gamer</h1>
+      <Heading>Indie Gamer</Heading>
       <p>
         Only the best indie games, reviewed for you.
       </p>

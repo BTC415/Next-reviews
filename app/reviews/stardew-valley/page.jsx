@@ -1,7 +1,9 @@
+import Heading from "@/components/Heading"
+
 export default function ReviewsPage() {
   return (
     <>
-      <h1>Reviews</h1>
+      <Heading>Reviews</Heading>
       <p>
         Here we'll list all the reviews.
       </p>
